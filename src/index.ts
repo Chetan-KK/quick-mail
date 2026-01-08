@@ -1,2 +1,2 @@
-export * from "./functions";
+export { QuickMail } from "./functions";
 export * from "./types";
