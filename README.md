@@ -2,6 +2,21 @@
 
 A simple and quick email sending package for Node.js. Built on top of Nodemailer with sensible defaults for Gmail.
 
+## Try it Online (best for frontend only servers)
+
+**Don't have a Node.js server?** No problem! Use our web app to send emails instantly without any backend or server setup:
+
+**[https://quick-mail-app-green.vercel.app/](https://quick-mail-app-green.vercel.app/)**
+
+Perfect for:
+
+- Frontend-only projects
+- Quick email testing
+- No server infrastructure needed
+- Send emails directly from your browser
+
+Create a free account and start sending emails without any hassle!
+
 ## Installation
 
 ```bash
