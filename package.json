@@ -3,9 +3,15 @@
   "version": "0.0.1",
   "description": "quick mail sending package",
   "keywords": [
-    "mail",
-    "gmail",
-    "quick"
+"email",
+    "quick mail",
+    "send email",
+    "email service",
+    "no backend",
+    "email api",
+    "transactional email",
+    "smtp",
+    "email delivery"
   ],
   "homepage": "https://github.com/Chetan-KK/quick-mail#readme",
   "bugs": {
