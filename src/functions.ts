@@ -75,7 +75,7 @@ class QuickMailClass {
   async send(options: SendMailOptions): Promise<SendMailResult> {
     if (!this.initialized || !this.transporter || !this.config) {
       throw new Error(
-        "QuickMail: Not initialized. Call QuickMail.init() first."
+        "QuickMail: Not initialized. Call QuickMail.init() first.",
       );
     }
 
@@ -134,7 +134,7 @@ class QuickMailClass {
   async verify(): Promise<boolean> {
     if (!this.initialized || !this.transporter) {
       throw new Error(
-        "QuickMail: Not initialized. Call QuickMail.init() first."
+        "QuickMail: Not initialized. Call QuickMail.init() first. or check your Credentials!",
       );
     }
 
