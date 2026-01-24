@@ -6,7 +6,7 @@ A simple and quick email sending package for Node.js. Built on top of Nodemailer
 
 **Don't have a Node.js server?** No problem! Use our web app to send emails instantly without any backend or server setup:
 
-**[https://quick-mail-app-green.vercel.app/](https://quick-mail-app-green.vercel.app/)**
+**[https://quick-mail.remainderzero.com/](https://quick-mail.remainderzero.com/)**
 
 Perfect for:
 
